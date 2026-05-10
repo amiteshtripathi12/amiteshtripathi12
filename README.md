@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Amitesh Tripathi
+# 👋 Hey there, I'm Amitesh Mani Tripathi
 
 ### 🤖 Full-Stack Developer | AI/LLM Builder | Django & FastAPI Enthusiast
 
